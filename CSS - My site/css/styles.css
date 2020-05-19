@@ -1,0 +1,106 @@
+@font-face {
+  font-family: firstfont;
+  src: url('../SFProDisplay-Bold.ttf');
+}
+
+body {
+  background-image: url("../images/mountains-background.jpg");
+  z-index: -2;
+  opacity: 95%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: rgba(64,186,213,0.4);
+}
+
+h1{
+  font-family: firstfont;
+  font-size: 70px;
+  text-align: center;
+  font-style: normal;
+  color: #45046a;
+  padding-top: 80px;
+}
+
+h2{
+  font-family: firstfont;
+  text-align: center;
+  color: #abf0e9;
+}
+
+h3{
+  font-family: firstfont;
+  text-align: center;
+  color: #63b7af;
+}
+
+p{
+  font-family: firstfont;
+  text-align: center;
+  color: #f3e1e1;
+}
+
+.p1{
+font-family: firstfont;
+  font-style: normal;
+  text-align: center;
+  color: #00263b;
+}
+
+.p2{
+  font-family: firstfont;
+  text-align: center;
+  color: #ffd5e5;
+
+}
+
+.prgicon{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 10px;
+  object-fit: contain;
+  height: 10px;
+}
+
+.bottom-container{
+  text-align: center;
+  font-family: firstfont;
+}
+
+.contact-me{
+  text-align: center;
+  text-decoration: none;
+  color: #b5076b;
+  font-family: firstfont;
+}
+
+a{
+ color: #b5076b;
+}
+
+.email{
+color:  #e8f044;
+}
+
+.fb{
+  color: #035aa6;
+}
+
+.ig{
+  color: #ff6363;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.paypal{
+  color: #40bad5;
+}
+
+#picke{
+  text-align: center;
+}
+
+.below{
+  color: #ffe9c5;
+}
